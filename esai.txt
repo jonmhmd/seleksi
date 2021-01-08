@@ -1,0 +1,7 @@
+-React Native adalah library javascript guna membuat UI
+-Sangat compatible dengan keunggulan multi-platform
+-Aturan syntax berkiblat pada javascript
+	a.CaseSensitive
+	b.Whitespace diabaikan
+	c.Memiliki ReservedWord
+-Memiliki fitur bridge, manfaatkan virtual DOM untuk memanipulasi laman web sehingga lebih responsive
